@@ -4,18 +4,18 @@ export const envelop = [
   '/forenvelope.png'
 ]
 export const open1 = "ԴՈՒՔ ՍՏԱՑԵԼ ԵՔ ՀՐԱՎԻՐԱՏՈՄՍ "
-export const open2 = "ՏԵՍՆԵԼՈՒ ՀԱՄԱՐ \nԴԻՊՉԻՐ ԷԿՐԱՆԻՆ"
-export const name = ["Տիգրան", "Նելլի"];
+export const open2 = "ՏԵՍՆԵԼՈՒ ՀԱՄԱՐ \nԴԻՊՉԵՔ ԷԿՐԱՆԻՆ"
+export const name = ["Վահան", "Սյունե"];
 
-export const date = ["07/07/26"];
+export const date = ["08/28/26"];
 
-export const dateTimeBox: any = new Date("2026-07-07T08:00:00");
+export const dateTimeBox: any = new Date("2026-08-28T08:00:00");
 
-export const forCalendar = [2026, 7, 7];
+export const forCalendar = [2026, 8, 28];
 
 export const calendar: any = [
-  "ՀՈՒԼԻՍ",
-  ["05", "06", "07", "08", "09"],
+  "ՕԳՈՍՏՈՍ",
+  ["26", "27", "28", "29", "30"],
 ];
 
 export const vazoxTox1 =
@@ -29,7 +29,7 @@ export const txt1 =
 
 export const txt3 = "Ինչ Աստված \n միացրեց,մարդը\nթող չբաժանի\n\nՄարկոս 10:9";
 
-export const txt4 = "Մասնակցության\n մասին\n Խնդրում ենք \nտեղեկացնել \nմինչև\nՀունիսի 20-ը";
+export const txt4 = "Մասնակցության\n մասին\n Խնդրում ենք \nտեղեկացնել \nմինչև\nՀուլիսի 30-ը";
 export const txt5 =
   "Խնդրում ենք \nհարսանիքի օրը \nԽՈՒՍԱՓԵԼ \nսպիտակ հագուստ\nկրելուց\n\nՄնացած \nբոլոր երանգները\nսազում են Ձեզ \n առավել քան երբևէ";
 
@@ -48,4 +48,4 @@ export const anim: any = {
   viewport: { once: true },
 };
 
-export const rsvp = "https://script.google.com/macros/s/AKfycbxhuNTi-WzY-mmSOwO_zzagfVvOP4uYLUZ4tG4RWZ0KLZHdIWZBQ9nhD1HVTQSyF0PE/exec";
+export const rsvp = "";

@@ -5,27 +5,27 @@ import React, { useEffect, useRef, useState } from "react";
 
 const programs = [
   {
-    time: "08:00",
-    title: "Փեսայի տուն",
-    location: "https://yandex.ru/maps/-/CPHhfS3t",
-    button: "Քարտեզ",
-  },
-  {
     time: "11:00",
+    title: "Փեսայի տուն",
+    location: "",
+    button: "Քարտեզ",
+  },
+  {
+    time: "13:00",
     title: "Հարսի տուն",
-    location: "https://yandex.ru/maps/-/CPHhf2YM",
+    location: "",
     button: "Քարտեզ",
   },
   {
-    time: "15:30",
+    time: "14:30",
     title: "Եկեղեցի",
-    location: "https://yandex.ru/maps/-/CPHhjB~D",
+    location: "",
     button: "Քարտեզ",
   },
   {
-    time: "18:00",
+    time: "17:00",
     title: "Ռեստորան",
-    location: "https://yandex.ru/maps/-/CPHhjKNc",
+    location: "",
     button: "Քարտեզ",
   },
 ];
