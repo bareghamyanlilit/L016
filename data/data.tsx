@@ -9,7 +9,7 @@ export const name = ["Վահան", "Սյունե"];
 
 export const date = ["08/28/26"];
 
-export const dateTimeBox: any = new Date("2026-08-28T08:00:00");
+export const dateTimeBox: any = new Date("2027-08-28T08:00:00");
 
 export const forCalendar = [2026, 8, 28];
 
